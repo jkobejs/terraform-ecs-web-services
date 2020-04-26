@@ -3,6 +3,8 @@
 Terraform configuration which creates EC2 lauch type ECS resources on AWS together with
 postgres RDS.
 
+[![asciicast](https://asciinema.org/a/uoauKuIhBbITN5gj66BdRaARj.svg)](https://asciinema.org/a/uoauKuIhBbITN5gj66BdRaARj?speed=6)
+
 ## Usage
 
 You will first need to install [terraform](https://www.terraform.io/) and configure aws cli
