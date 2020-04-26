@@ -1,11 +1,11 @@
-# AWS Elastic Container Service (ECS) Terraform configuration for deploying web services
+# AWS Elastic Container Service (ECS) Terraform configuration 
 
 Terraform configuration which creates EC2 lauch type ECS resources on AWS together with
 postgres RDS.
 
 ## Usage
 
-You will first need to install terraform and configure aws cli
+You will first need to install [terraform](https://www.terraform.io/) and configure aws cli
 [profile](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html).
 
 ```bash
