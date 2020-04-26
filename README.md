@@ -26,7 +26,7 @@ terraform apply -var="profile=jkobejs"
 
 ### Free tier
 
-This configuration offers a way how to setup working ECS cluster with RDS using AWS Free
+This configuration creates working ECS cluster with RDS using AWS Free
 Tier offering.
 
 To create free tier infrastructure run
